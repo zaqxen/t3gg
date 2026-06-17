@@ -101,7 +101,7 @@ git clone https://github.com/zaqxen/t3gg.git
 Open the project folder:
 
 ```bash
-cd YOUR-REPOSITORY-NAME
+cd t3gg
 ```
 
 Then open `index.html` in your browser.
